@@ -3,6 +3,7 @@ The web system enables it's users to place orders of new gases and gas refill, w
 
 # Tech Stack
 1. Frontend
+
 The Frontend fully runs on ReactJS
 Node version: 18.12.1
 Npm version: 9.2.0
@@ -15,10 +16,13 @@ react-router-dom v9 for navigation
 # Contribution
 To contribute clone this repository then run npm start on it root directory.
 
-#Project's Modules
+# Project's Modules
+
 Admin - Login -> View Orders -> Delete Orders -> Checkout Orders
+
 User - Signup -> VerifyEmail -> Login -> PlaceOrder
 
-#Credits
+# Credits
 fleeklawi@gmail.com
+
 ianosang18@gmail.com
