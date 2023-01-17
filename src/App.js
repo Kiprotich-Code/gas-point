@@ -9,12 +9,11 @@ import VerifyEmail from './Components/Common/VerifyEmail'
 import Login from './Components/Common/Login'
 import Register from './Components/Common/Register';
 import PlaceOrder from './Components/PlaceOrder/PlaceOrder';
-import AdminHome from './Components/Admin/AdminHome';
 
 function App() {
   return (
     <div className="App">
-        {/* <Navbar />
+        <Navbar />
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
@@ -23,8 +22,7 @@ function App() {
           <Route path='/verify_email' element={<VerifyEmail />} />
           <Route path='/login' element={<Login />} />
           <Route path='/place_order' element={<PlaceOrder />} />
-        </Routes> */}
-        <AdminHome />
+        </Routes>
     </div>
   );
 }
