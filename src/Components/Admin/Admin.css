@@ -1,0 +1,22 @@
+li {
+    list-style: none;
+    padding: 5px 25px;
+}
+
+ul {
+    display: flex;
+}
+
+a {
+    text-decoration: unset;
+}
+
+nav {
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+* {
+    cursor: pointer;
+}
