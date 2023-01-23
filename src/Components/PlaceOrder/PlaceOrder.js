@@ -1,8 +1,16 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
 export default function PlaceOrder() {
+    const navigate = useNavigate('')
+
+    const handleSubmit = () => {
+        alert("Your order has been successfully, Our is team working to deliver! Thank you.")
+        navigate('/')
+    }
+
     return (
-        <div class="App-header">
+            <div class="App-header">
             <form>
                 <div>
                     <h3>Place Your Order Here</h3>
@@ -58,7 +66,7 @@ export default function PlaceOrder() {
                     <span><h4>Payment: Pay on delivery.</h4></span>
                 </div>
 
-                <button>Place Order</button>
+                <button onClick={handleSubmit}>Place Order</button>
             </form>
         </div>
     )

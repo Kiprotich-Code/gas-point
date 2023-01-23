@@ -14,7 +14,7 @@ function Login(){
   }
 
   return(
-    <div className='center'>
+    <div className='center h-80v'>
       <div className='auth'>
         <h1>Log in</h1>
         <form name='login_form'>

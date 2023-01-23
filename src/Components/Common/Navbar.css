@@ -9,6 +9,11 @@ ul {
 
 a {
     text-decoration: unset;
+    color: white;
+}
+
+a:active, a:hover {
+    color: blue;
 }
 
 nav {

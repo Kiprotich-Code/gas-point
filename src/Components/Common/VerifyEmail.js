@@ -13,7 +13,7 @@ function VerifyEmail() {
   }
 
   return (
-    <div className='center'>
+    <div className='center h-80v'>
       <div className='verifyEmail'>
         <h1>Verify your Email Address</h1>
         <p>
