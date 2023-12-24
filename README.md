@@ -3,7 +3,11 @@
 
 # Stack
 Frontend: ReactJs or Bootstrap
+
+
 Backend: Django or Django REST Framework
+
+
 Database: SQLite or PostgreSql or MySQL
 
 # Contributions
