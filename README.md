@@ -2,13 +2,16 @@
 - Gas-Point is a gas delivery web application,for managing orders and deliveries for a gas company.
 
 # Stack
-Frontend: ReactJs or Bootstrap
+*Frontend:*
+- ReactJs, Bootstrap
 
 
-Backend: Django or Django REST Framework
+*Backend:*
+- Django, Django REST Framework
 
 
-Database: SQLite or PostgreSql or MySQL
+*Database:*
+- SQLite, PostgreSql, MySQL
 
 # Contributions
 - You have what it takes, clone it and let's get it done.
